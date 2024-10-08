@@ -1,5 +1,6 @@
 # Relation-Extraction-in-NLP-using-Deep-Learning-Models
 
+![Trying some designs (5)](https://github.com/user-attachments/assets/91d3d88b-d3cd-43a4-9213-670415f18f85)
 
 
 This project provides two approaches for relation extraction classification using deep learning and machine learning techniques.
